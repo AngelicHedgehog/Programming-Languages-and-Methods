@@ -1,5 +1,0 @@
-﻿  OpenPoseImage.cpp
-C:\Рабочий стол\bmnk\Семестр 2\ЯиМП\homework 2\openPose\openPoseImage\OpenPoseImage.cpp(72,23): warning C4305: инициализация: усечение из "double" в "float"
-C:\Рабочий стол\bmnk\Семестр 2\ЯиМП\homework 2\openPose\openPoseImage\OpenPoseImage.cpp(144,32): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Рабочий стол\bmnk\Семестр 2\ЯиМП\homework 2\openPose\openPoseImage\OpenPoseImage.cpp(148,15): warning C4018: <: несоответствие типов со знаком и без знака
-  openPoseImage.vcxproj -> C:\Рабочий стол\bmnk\Семестр 2\ЯиМП\homework 2\openPose\openPoseImage\x64\Debug\openPoseImage.exe
